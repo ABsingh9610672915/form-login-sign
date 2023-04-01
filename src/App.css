@@ -1,0 +1,223 @@
+body{
+ background-color: cornflowerblue;
+  
+  align-items: center;
+   background-color: black;
+}  
+.comp{
+  background-color: rgb(0, 0, 0);
+  justify-content: center;
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+} 
+.form{
+  text-align: center;
+  justify-content: center;
+} 
+
+ .form-card .card-body {
+  padding: 0 1.56rem 0 1.56rem !important;
+}
+.card-body 
+*, ::after, ::before {
+  box-sizing: border-box;
+} 
+#mechanic-form 
+.glass-effect {
+  color: var(--bs-light) !important;
+  border: 1px solid var(--bs-light) !important;
+  backdrop-filter: blur(50px) !important;
+  -webkit-backdrop-filter: blur(50px) !important;
+}
+.form-card {
+  width: fit-content !important;
+  background: initial !important;
+  border-radius: 1rem !important;
+  margin-top: 3rem !important;
+ } 
+ .card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #940909;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+} 
+ 
+
+/* hire css--------------------------------->>>>>> */
+
+/* hire css  and login  =---------------------------- */
+
+
+.glass-effect {
+  color: #ffffff !important;
+  border: 1px solid #cfe7ff !important;
+  backdrop-filter: blur(50px) !important;
+  -webkit-backdrop-filter: blur(50px) !important;
+} 
+
+.form-card {
+  width: fit-content !important;
+  background: initial !important;
+  border-radius: 1rem !important;
+  margin-top: 3rem !important;
+}
+.text-center {
+  text-align: center!important;
+}
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+:root {
+  --primary-color: #ff0000 !important;
+  --secondary-color: #000000 !important;
+}
+
+input[type="submit" i] {
+  appearance: auto;
+  user-select: none;
+  white-space: pre;
+  align-items: flex-start;
+  text-align: center;
+  cursor: default;
+  box-sizing: border-box;
+  background-color: buttonface;
+  color: buttontext;
+  padding: 1px 6px;
+  border-width: 2px;
+  border-style: outset;
+  border-color: buttonborder;
+  border-image: initial;
+}
+input {
+  writing-mode: horizontal-tb !important;
+
+  text-rendering: auto;
+  color: fieldtext;
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  appearance: auto;
+  -webkit-rtl-ordering: logical;
+  cursor: text;
+  background-color: field;
+  margin: 0em;
+  padding: 1px 2px;
+  border-width: 2px;
+  border-style: inset;
+  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+  border-image: initial;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  cursor: pointer;
+}
+.btn-hire {
+  background-color: var(--primary-color) !important;
+  color: var(--bs-light) !important;
+  margin: 1.6rem 0 2.8rem 0 !important;
+  width: 100% !important;
+}
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+[type=button], [type=reset], [type=submit], button {
+  -webkit-appearance: button;
+}
+button, input, optgroup, select, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+.input-group:not(.has-validation)>.dropdown-toggle:nth-last-child(n+3), .input-group:not(.has-validation)>:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-ip {
+  background-color: var(--bs-secondary) !important;
+  justify-content: center !important;
+  width: 40% !important;
+}
+.text-white {
+  color: #fff!important;
+}
+.input-group-text {
+  display: flex;
+  align-items: center;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+label {
+  display: inline-block;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+label {
+  cursor: default;
+}
+.glass-effect {
+  color: #ffffff !important;
+  border: 1px solid #cfe7ff !important;
+  backdrop-filter: blur(50px) !important;
+  -webkit-backdrop-filter: blur(50px) !important;
+}
+.text-center {
+  text-align: center!important;
+}
+ 
+
+
+
+
+
+
+
+
